@@ -1,3 +1,7 @@
+
+![Lo siento a habido un error](https://upload.wikimedia.org/wikipedia/commons/b/b3/Command_Prompt_on_Windows_10_RTM.png "Consola cmd ")
+
+
 # GUIA DE COMANDOS CMD
 
 ### CD

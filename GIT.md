@@ -25,3 +25,4 @@
   * para volver a un estado del repositorio anterior a traves de la linea temporal de los commits
 - git branch
   * para identificar cual es la rama del repositorio en la que estamos trabajando
+-git 
